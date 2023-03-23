@@ -2,7 +2,7 @@
 
 
 There is a singly linked list of a structure containing name and gender information as in mixed order as both gender and name. Complete the given program to arrange
-the linked list in Figure 1 so that women names (in ascending alphabetical order) are contained first, then men names (in descending alphabetical order) are contained
+the linked list so that women names (in ascending alphabetical order) are contained first, then men names (in descending alphabetical order) are contained
 
 
 
