@@ -7,8 +7,13 @@ the linked list in Figure 1 so that women names (in ascending alphabetical order
 
 
 • You cannot create (allocate memory for) new list items.
+
 • You cannot edit members fields (name and gender) of list items except their next link fields.
+
 • You cannot modify the insertion logic of the insert function.
+
 • You cannot change the number of parameters and contents of functions.
+
 • You can define different auxiliary functions.
+
 • You can define as many (non-global) variables as you want.
